@@ -16,6 +16,7 @@
 \usepackage{caption}
 \usepackage{microtype}
 \usepackage[hidelinks]{hyperref}
+\usepackage{xurl}   % let long URLs break across lines (no margin overflow)
 
 \captionsetup{font=small,labelfont=bf,skip=5pt}
 \setlength{\parindent}{1em}
@@ -36,7 +37,7 @@
     {\normalsize Aryan Maity\par}
     \vspace{0.2em}
     {\small St.~Edmund's College \quad\textbar\quad
-     \texttt{github.com/aryan35790jp/cross\_straight\_chinese}\par}
+     \url{https://github.com/aryan35790jp/cross_straight_chinese}\par}
   \end{center}
   \vspace{1.0em}
   \begin{center}
@@ -380,9 +381,10 @@ is itself the instrument that removed the forms.
 
 \section{Limitations}
 The sense-recovery effect is small in absolute terms (silhouettes near 0.07 to
-0.10) and significant rather than large; we lean on the calibrated null and the
-redundant control rather than on magnitude. The gloss-based typology is a proxy,
-corroborated by the radical at 74.5 percent but not by a native-speaker gold
+0.10) and significant rather than large; our claims rest on the calibrated null
+and the redundant-control comparison, not on effect magnitude. The gloss-based
+typology is a proxy, corroborated by the radical at 74.5 percent but not by a
+native-speaker gold
 standard. Many abolished variants are rare and fall outside the model vocabulary;
 we address this by restricting the form analysis to real tokens and the sense
 analysis to real orthodox forms, but a vocabulary covering the full variant
@@ -409,7 +411,7 @@ Cliff's delta, permutation tests, label-shuffle nulls, Holm-Bonferroni) run
 hands-off on a single free Colab T4 in under two hours. The complete dataset,
 the data-construction and analysis code, the model-probe pipeline, and all
 derived tables and figures are available at
-\texttt{https://github.com/aryan35790jp/cross\_straight\_chinese}.
+\url{https://github.com/aryan35790jp/cross_straight_chinese}.
 
 \begin{thebibliography}{99}
 \small
@@ -434,11 +436,11 @@ Finding Syntax in Word Representations. In \emph{Proc.\ NAACL-HLT}, 4129--4138.
 \bibitem{cui2021} Y.~Cui, W.~Che, T.~Liu, B.~Qin, and Z.~Yang. 2021. Pre-Training
 with Whole Word Masking for Chinese BERT. \emph{IEEE/ACM TASLP}, 29:3504--3514.
 \bibitem{ckip} CKIP Lab, Academia Sinica. CKIP Transformers: Traditional Chinese
-Transformer Models. \texttt{https://github.com/ckiplab/ckip-transformers}.
+Transformer Models. \url{https://github.com/ckiplab/ckip-transformers}.
 \bibitem{unihan} The Unicode Consortium. Unicode Han Database (Unihan), UAX \#38,
 Unicode 17.0.0.
 \bibitem{opencc} OpenCC contributors. Open Chinese Convert (OpenCC).
-\texttt{https://github.com/BYVoid/OpenCC}.
+\url{https://github.com/BYVoid/OpenCC}.
 \bibitem{moedict} Ministry of Education, R.O.C. Dictionary of Chinese Character
 Variants (異體字字典).
 \end{thebibliography}
