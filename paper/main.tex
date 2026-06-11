@@ -21,6 +21,7 @@
 \setlength{\parindent}{1em}
 \setlength{\belowcaptionskip}{2pt}
 \setlength{\textfloatsep}{10pt plus 2pt minus 2pt}
+\emergencystretch=2em   % avoids overfull/stretched lines around long \texttt names
 
 % Title is typeset manually inside \twocolumn[...] below (do NOT use \maketitle
 % in a twocolumn class: it nests \twocolumn and errors).
@@ -238,14 +239,16 @@ measures how distinctly the model represents the form. Each measure is calibrate
 against a label-shuffle null.
 
 \noindent\textbf{Models and the shared-vocabulary control.} We probe five
-encoders: two trained on Traditional text (\texttt{ckiplab/bert-base-chinese},
-\texttt{ckiplab/albert-base-chinese}) from Academia Sinica \cite{ckip}, and three
-on Simplified text (\texttt{hfl/chinese-bert-wwm-ext},
-\texttt{hfl/chinese-macbert-base}, \texttt{hfl/chinese-roberta-wwm-ext})
-\cite{cui2021}. The five share a token vocabulary whose pairwise overlap is at
-least 0.9998, and every one of our 1,816 dataset characters receives an identical
-token id in all five. The tokenizer is therefore a held-constant control: any
-cross-script difference resides in the learned weights, not in segmentation.
+encoders that share an identical token vocabulary. Two are trained on Traditional
+text, \texttt{ckiplab/\allowbreak bert-base-chinese} and
+\texttt{ckiplab/\allowbreak albert-base-chinese} (Academia Sinica \cite{ckip});
+three on Simplified text, \texttt{hfl/\allowbreak chinese-bert-wwm-ext},
+\texttt{hfl/\allowbreak chinese-macbert-base}, and
+\texttt{hfl/\allowbreak chinese-roberta-wwm-ext} \cite{cui2021}. Their pairwise
+vocabulary overlap is at least 0.9998, and every one of our 1,816 dataset
+characters receives an identical token id in all five. The tokenizer is therefore
+a held-constant control: any cross-script difference resides in the learned
+weights, not in segmentation.
 
 \noindent\textbf{Coverage.} Of the 1,816 characters, 840 (chiefly rare abolished
 variants) fall outside the shared vocabulary and tokenize to the unknown token.
