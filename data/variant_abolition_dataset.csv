@@ -1,0 +1,797 @@
+﻿orthodox,variants,n_members,phon_class,distinct_gloss,radical_differs,restored,o_reading,var_readings,bits_upper,bits_irrecoverable,bits_validated
+庵,菴,2,homophonic,False,True,False,ān,ān,1.0,1.0,0.0
+暗,闇晻,3,homophonic,True,True,False,àn,àn àn,1.585,1.585,0.0
+鞍,鞌,2,homophonic,False,False,False,ān,ān,1.0,1.0,0.0
+岸,㟁,2,homophonic,False,False,False,àn,àn,1.0,1.0,0.0
+坳,㘭,2,homophonic,False,False,False,ào,ào,1.0,1.0,0.0
+拗,抝,2,tonal-variant,False,False,False,ào,ǎo,1.0,1.0,0.0
+鰲,鼇,2,homophonic,False,True,False,áo,áo,1.0,1.0,0.0
+翱,翺,2,homophonic,False,False,False,áo,áo,1.0,1.0,0.0
+霸,覇,2,homophonic,False,True,False,bà,bà,1.0,1.0,0.0
+柏,栢,2,homophonic,False,False,False,bǎi,bǎi,1.0,1.0,0.0
+稗,粺,2,homophonic,True,True,False,bài,bài,1.0,1.0,0.0
+坂,岅,2,homophonic,True,True,False,bǎn,bǎn,1.0,1.0,0.0
+幫,幚幇,3,homophonic,False,False,False,bāng,bāng bāng,1.585,1.585,0.0
+膀,髈,2,homophonic,False,True,False,bǎng,bǎng,1.0,1.0,0.0
+榜,牓,2,homophonic,True,True,False,bǎng,bǎng,1.0,1.0,0.0
+刨,鉋鑤,3,heterophonic,False,True,False,páo,bào bào,1.585,0.6667,1.0
+褓,緥,2,homophonic,False,True,False,bǎo,bǎo,1.0,1.0,0.0
+寶,寳,2,homophonic,False,False,False,bǎo,bǎo,1.0,1.0,0.0
+褒,襃,2,homophonic,False,False,False,bāo,bāo,1.0,1.0,0.0
+背,揹,2,tonal-variant,False,True,False,bèi,bēi,1.0,1.0,0.0
+備,俻,2,homophonic,False,False,False,bèi,bèi,1.0,1.0,0.0
+悖,誖,2,homophonic,True,True,False,bèi,bèi,1.0,1.0,0.0
+杯,盃桮,3,homophonic,False,True,False,bēi,bēi bēi,1.585,1.585,0.0
+奔,犇奔逩,4,tonal-variant,False,True,False,bēn,bēn  bèn,2.0,1.1887,1.0
+綳,繃,2,tonal-variant,False,False,False,bēng,běng,1.0,1.0,0.0
+痹,痺,2,homophonic,False,False,False,bì,bì,1.0,1.0,0.0
+逼,偪,2,homophonic,False,True,False,bī,bī,1.0,1.0,0.0
+斃,獘,2,homophonic,True,True,False,bì,bì,1.0,1.0,0.0
+秘,祕,2,homophonic,False,True,False,mì,mì,1.0,1.0,0.0
+弊,𡚁,2,homophonic,False,True,False,bì,bì,1.0,1.0,0.0
+秕,粃,2,homophonic,False,True,False,bǐ,bǐ,1.0,1.0,0.0
+遍,徧,2,homophonic,False,True,False,biàn,biàn,1.0,1.0,0.0
+膘,臕,2,homophonic,False,False,False,biāo,biāo,1.0,1.0,0.0
+鱉,鼈,2,homophonic,False,True,False,biē,biē,1.0,1.0,0.0
+癟,㿜,2,homophonic,False,False,False,biě,biě,1.0,1.0,0.0
+冰,氷,2,homophonic,False,True,False,bīng,bīng,1.0,1.0,0.0
+并,併並竝,4,homophonic,False,True,False,bìng,bìng bìng bìng,2.0,2.0,0.0
+禀,稟,2,homophonic,False,True,False,bǐng,bǐng,1.0,1.0,0.0
+鉢,缽盋,3,homophonic,False,True,False,bō,bō bō,1.585,1.585,0.0
+博,愽,2,homophonic,False,True,False,bó,bó,1.0,1.0,0.0
+駁,駮,2,homophonic,False,False,False,bó,bó,1.0,1.0,0.0
+脖,𩓐,2,homophonic,False,True,False,bó,bó,1.0,1.0,0.0
+布,佈,2,homophonic,True,True,False,bù,bù,1.0,1.0,0.0
+睬,倸,2,homophonic,False,True,False,cǎi,cǎi,1.0,1.0,0.0
+踩,跴,2,homophonic,False,False,False,cǎi,cǎi,1.0,1.0,0.0
+采,寀採,3,homophonic,True,True,False,cǎi,cǎi cǎi,1.585,1.585,0.0
+彩,綵,2,homophonic,False,True,False,cǎi,cǎi,1.0,1.0,0.0
+慚,慙,2,homophonic,False,False,False,cán,cán,1.0,1.0,0.0
+參,㕘,2,homophonic,False,False,False,cān,,1.0,0.0,1.0
+草,艸,2,homophonic,False,False,False,cǎo,cǎo,1.0,1.0,0.0
+操,𢮥撡,3,homophonic,False,False,False,cāo, cāo,1.585,0.6667,1.0
+册,冊,2,homophonic,False,False,False,cè,cè,1.0,1.0,0.0
+厠,廁,2,homophonic,False,True,False,cè,cè,1.0,1.0,0.0
+策,筞筴,3,homophonic,True,False,False,cè,cè cè,1.585,1.585,0.0
+碴,𦉆,2,homophonic,True,True,False,chá,chá,1.0,1.0,0.0
+查,査,2,heterophonic,False,False,False,chá,zhā,1.0,0.0,1.0
+察,詧,2,homophonic,False,True,False,chá,chá,1.0,1.0,0.0
+插,揷,2,homophonic,False,False,False,chā,chā,1.0,1.0,0.0
+鏟,剷,2,homophonic,True,True,False,chǎn,chǎn,1.0,1.0,0.0
+嘗,嚐甞,3,homophonic,False,True,False,cháng,cháng cháng,1.585,1.585,0.0
+腸,膓,2,homophonic,False,False,False,cháng,cháng,1.0,1.0,0.0
+場,塲,2,tonal-variant,False,False,False,chǎng,cháng,1.0,1.0,0.0
+扯,撦,2,homophonic,False,False,False,chě,chě,1.0,1.0,0.0
+嗔,瞋,2,homophonic,True,True,False,chēn,chēn,1.0,1.0,0.0
+趁,趂,2,homophonic,False,False,False,chèn,chèn,1.0,1.0,0.0
+乘,乗椉,3,homophonic,False,True,False,chéng,chéng chéng,1.585,1.585,0.0
+撑,撐,2,homophonic,False,False,False,chēng,chēng,1.0,1.0,0.0
+澄,澂,2,homophonic,False,False,False,chéng,chéng,1.0,1.0,0.0
+塍,堘,2,homophonic,False,False,False,chéng,chéng,1.0,1.0,0.0
+吃,喫,2,homophonic,False,False,False,chī,chī,1.0,1.0,0.0
+翅,翄,2,homophonic,True,False,False,chì,chì,1.0,1.0,0.0
+耻,恥,2,homophonic,False,True,False,chǐ,chǐ,1.0,1.0,0.0
+痴,癡,2,homophonic,False,False,False,chī,chī,1.0,1.0,0.0
+敕,勅勑,3,homophonic,True,True,False,chì,chì chì,1.585,1.585,0.0
+仇,讐,2,homophonic,False,True,False,chóu,chóu,1.0,1.0,0.0
+瞅,矁𥄨,3,homophonic,False,False,False,chǒu,chǒu chǒu,1.585,1.585,0.0
+酬,酧詶醻,4,heterophonic,True,True,False,chóu,chóu zhòu chóu,2.0,1.1887,1.0
+鋤,鉏耡,3,homophonic,False,True,False,chú,chú chú,1.585,1.585,0.0
+蹰,躕,2,homophonic,False,False,False,chú,chú,1.0,1.0,0.0
+橱,櫥,2,homophonic,False,False,False,chú,chú,1.0,1.0,0.0
+厨,廚㕑,3,homophonic,False,True,False,chú,chú chú,1.585,1.585,0.0
+船,舩,2,homophonic,False,False,False,chuán,chuán,1.0,1.0,0.0
+創,剏剙,3,homophonic,False,False,False,chuàng,chuàng chuàng,1.585,1.585,0.0
+窗,𥦗窓窻牕牎,6,homophonic,False,True,False,chuāng, chuāng chuāng chuāng chuāng,2.585,1.9349,1.0
+床,牀,2,homophonic,False,True,False,chuáng,chuáng,1.0,1.0,0.0
+捶,搥,2,homophonic,False,False,False,chuí,chuí,1.0,1.0,0.0
+棰,箠,2,homophonic,True,True,False,chuí,chuí,1.0,1.0,0.0
+錘,鎚,2,homophonic,False,False,False,chuí,chuí,1.0,1.0,0.0
+唇,脣,2,homophonic,False,True,False,chún,chún,1.0,1.0,0.0
+春,旾,2,homophonic,False,False,False,chūn,chūn,1.0,1.0,0.0
+醇,醕,2,homophonic,False,False,False,chún,chún,1.0,1.0,0.0
+蠢,惷,2,homophonic,False,True,False,chǔn,chǔn,1.0,1.0,0.0
+淳,湻,2,homophonic,False,False,False,chún,chún,1.0,1.0,0.0
+蒓,蓴,2,homophonic,False,False,False,chún,chún,1.0,1.0,0.0
+詞,䛐,2,homophonic,False,False,False,cí,cí,1.0,1.0,0.0
+辭,辤,2,homophonic,False,False,False,cí,cí,1.0,1.0,0.0
+糍,餈,2,homophonic,False,True,False,cí,cí,1.0,1.0,0.0
+鷀,鶿,2,homophonic,False,False,False,cí,cí,1.0,1.0,0.0
+匆,悤怱,3,homophonic,True,True,False,cōng,cōng cōng,1.585,1.585,0.0
+葱,蔥,2,homophonic,False,False,False,cōng,cōng,1.0,1.0,0.0
+凑,湊,2,homophonic,False,True,False,còu,còu,1.0,1.0,0.0
+粗,觕麤,3,homophonic,False,True,False,cū,cū cū,1.585,1.585,0.0
+蹴,蹵,2,homophonic,False,False,False,cù,cù,1.0,1.0,0.0
+篡,簒,2,homophonic,False,False,False,cuàn,cuàn,1.0,1.0,0.0
+脆,脃,2,homophonic,True,False,False,cuì,cuì,1.0,1.0,0.0
+悴,顇,2,homophonic,False,True,False,cuì,cuì,1.0,1.0,0.0
+村,邨,2,homophonic,False,True,False,cūn,cūn,1.0,1.0,0.0
+銼,剉,2,homophonic,False,True,False,cuò,cuò,1.0,1.0,0.0
+瘩,𤺥,2,homophonic,False,False,False,da,,1.0,0.0,1.0
+呆,獃騃,3,heterophonic,False,True,False,dāi,dāi ái,1.585,0.6667,1.0
+玳,瑇,2,homophonic,False,False,False,dài,dài,1.0,1.0,0.0
+啖,啗噉,3,homophonic,False,False,False,dàn,dàn dàn,1.585,1.585,0.0
+耽,躭,2,homophonic,True,True,False,dān,dān,1.0,1.0,0.0
+擋,攩,2,homophonic,False,False,False,dǎng,dǎng,1.0,1.0,0.0
+蕩,盪,2,homophonic,True,True,False,dàng,dàng,1.0,1.0,0.0
+搗,擣𢷬,3,homophonic,False,False,False,dǎo,dǎo ,1.585,0.6667,1.0
+島,㠀,2,homophonic,False,False,False,dǎo,dǎo,1.0,1.0,0.0
+德,惪,2,homophonic,False,True,False,dé,dé,1.0,1.0,0.0
+凳,櫈,2,homophonic,False,True,False,dèng,dèng,1.0,1.0,0.0
+堤,隄,2,homophonic,False,True,False,dī,dī,1.0,1.0,0.0
+抵,牴觝,3,homophonic,False,True,False,dǐ,dǐ dǐ,1.585,1.585,0.0
+蒂,蔕,2,homophonic,False,False,False,dì,dì,1.0,1.0,0.0
+雕,彫鵰琱,4,homophonic,False,True,False,diāo,diāo diāo diāo,2.0,2.0,0.0
+吊,弔,2,homophonic,False,True,False,diào,diào,1.0,1.0,0.0
+蝶,蜨,2,homophonic,False,False,False,dié,dié,1.0,1.0,0.0
+叠,疊曡㬪,4,homophonic,True,True,False,dié,dié dié dié,2.0,2.0,0.0
+喋,啑,2,heterophonic,True,False,False,dié,shà,1.0,0.0,1.0
+碇,椗矴,3,homophonic,False,True,False,dìng,dìng dìng,1.585,1.585,0.0
+動,働,2,homophonic,True,True,False,dòng,dòng,1.0,1.0,0.0
+兜,兠,2,homophonic,False,False,False,dōu,dōu,1.0,1.0,0.0
+鬥,鬦鬪鬭,4,homophonic,False,False,False,dòu,dòu dòu dòu,2.0,2.0,0.0
+豆,荳,2,homophonic,False,True,False,dòu,dòu,1.0,1.0,0.0
+睹,覩,2,homophonic,False,True,False,dǔ,dǔ,1.0,1.0,0.0
+妒,妬,2,homophonic,False,False,False,dù,dù,1.0,1.0,0.0
+敦,㪟,2,homophonic,False,False,False,dūn,,1.0,0.0,1.0
+惇,㥫,2,homophonic,False,False,False,dūn,,1.0,0.0,1.0
+遁,遯,2,homophonic,False,False,False,dùn,dùn,1.0,1.0,0.0
+墩,墪,2,homophonic,False,False,False,dūn,dūn,1.0,1.0,0.0
+朵,朶,2,homophonic,False,False,False,duǒ,duǒ,1.0,1.0,0.0
+垛,垜,2,homophonic,False,False,False,duǒ,duǒ,1.0,1.0,0.0
+跺,跥,2,homophonic,False,False,False,duò,duò,1.0,1.0,0.0
+額,頟,2,homophonic,False,False,False,é,é,1.0,1.0,0.0
+扼,搤,2,homophonic,True,False,False,è,è,1.0,1.0,0.0
+萼,蕚,2,homophonic,False,False,False,è,è,1.0,1.0,0.0
+峨,峩,2,homophonic,False,False,False,é,é,1.0,1.0,0.0
+鵝,鵞䳘,3,homophonic,False,False,False,é,é é,1.585,1.585,0.0
+婀,娿婐,3,heterophonic,True,False,False,ē,ē wǒ,1.585,0.6667,1.0
+厄,阨戹,3,homophonic,False,True,False,è,è è,1.585,1.585,0.0
+鰐,鱷,2,homophonic,False,False,False,è,è,1.0,1.0,0.0
+腭,齶,2,homophonic,False,True,False,è,è,1.0,1.0,0.0
+訛,譌,2,homophonic,False,False,False,é,é,1.0,1.0,0.0
+恩,㤙,2,homophonic,False,False,False,ēn,,1.0,0.0,1.0
+爾,尒,2,homophonic,False,True,False,ěr,ěr,1.0,1.0,0.0
+罰,罸,2,homophonic,False,False,False,fá,fá,1.0,1.0,0.0
+筏,栰,2,homophonic,False,True,False,fá,fá,1.0,1.0,0.0
+法,灋㳒,3,heterophonic,False,False,False,fǎ,fǎ biàn,1.585,0.6667,1.0
+珐,琺,2,homophonic,False,False,False,fà,fà,1.0,1.0,0.0
+繁,緐,2,homophonic,False,False,False,fán,fán,1.0,1.0,0.0
+翻,飜繙,3,homophonic,True,True,False,fān,fān fān,1.585,1.585,0.0
+凡,凢,2,homophonic,False,False,False,fán,fán,1.0,1.0,0.0
+帆,㠶颿,3,tonal-variant,False,True,False,fān,fán fān,1.585,1.585,0.0
+泛,汎氾,3,tonal-variant,True,False,False,fàn,fàn fán,1.585,1.585,0.0
+仿,髣倣,3,homophonic,True,True,True,fǎng,fǎng fǎng,1.585,1.585,0.0
+痱,疿,2,homophonic,False,False,False,fèi,fèi,1.0,1.0,0.0
+廢,癈,2,homophonic,False,True,False,fèi,fèi,1.0,1.0,0.0
+氛,雰,2,homophonic,True,True,False,fēn,fēn,1.0,1.0,0.0
+蜂,蠭䗬,3,homophonic,True,False,False,fēng,fēng ,1.585,0.6667,1.0
+峰,峯,2,homophonic,False,False,False,fēng,fēng,1.0,1.0,0.0
+俯,俛頫,3,homophonic,True,True,False,fǔ,fǔ fǔ,1.585,1.585,0.0
+佛,彿髴,3,homophonic,True,True,False,fú,fú fú,1.585,1.585,0.0
+婦,媍,2,homophonic,False,False,False,fù,fù,1.0,1.0,0.0
+附,坿,2,homophonic,True,True,False,fù,fù,1.0,1.0,0.0
+麩,粰䴸,3,tonal-variant,False,True,False,fū,fú fū,1.585,1.585,0.0
+嘎,嘠,2,homophonic,False,False,False,gā,gā,1.0,1.0,0.0
+丐,匄匃,3,homophonic,False,True,False,gài,gài gài,1.585,1.585,0.0
+概,槩,2,homophonic,False,False,False,gài,gài,1.0,1.0,0.0
+贛,贑灨,3,homophonic,False,True,False,gàn,gàn gàn,1.585,1.585,0.0
+秆,稈,2,homophonic,False,False,False,gǎn,gǎn,1.0,1.0,0.0
+杆,桿,2,tonal-variant,False,False,False,gān,gǎn,1.0,1.0,0.0
+乾,乹亁,3,heterophonic,True,False,False,qián,gān gān,1.585,0.6667,1.0
+幹,榦,2,homophonic,False,True,False,gàn,gàn,1.0,1.0,0.0
+杠,槓,2,homophonic,False,False,False,gàng,gàng,1.0,1.0,0.0
+扛,摃,2,homophonic,False,False,False,káng,káng,1.0,1.0,0.0
+肛,疘,2,homophonic,False,True,False,gāng,gāng,1.0,1.0,0.0
+皋,皐臯,3,homophonic,False,True,False,gāo,gāo gāo,1.585,1.585,0.0
+槁,槀,2,homophonic,True,False,False,gǎo,gǎo,1.0,1.0,0.0
+糕,餻,2,homophonic,False,True,False,gāo,gāo,1.0,1.0,0.0
+稿,稾,2,homophonic,False,False,False,gǎo,gǎo,1.0,1.0,0.0
+閣,閤,2,homophonic,False,False,False,gé,gé,1.0,1.0,0.0
+胳,肐,2,homophonic,False,False,False,gē,gē,1.0,1.0,0.0
+歌,謌,2,homophonic,False,True,False,gē,gē,1.0,1.0,0.0
+個,箇,2,homophonic,False,True,False,gè,gè,1.0,1.0,0.0
+亘,亙,2,homophonic,False,False,False,gèn,gèn,1.0,1.0,0.0
+耕,畊,2,homophonic,False,True,False,gēng,gēng,1.0,1.0,0.0
+鯁,骾,2,homophonic,True,True,False,gěng,gěng,1.0,1.0,0.0
+躬,躳,2,homophonic,False,False,False,gōng,gōng,1.0,1.0,0.0
+够,夠,2,homophonic,False,False,False,gòu,gòu,1.0,1.0,0.0
+鈎,鉤,2,homophonic,False,False,False,gōu,gōu,1.0,1.0,0.0
+構,搆,2,homophonic,True,True,False,gòu,gòu,1.0,1.0,0.0
+雇,僱,2,homophonic,False,True,False,gù,gù,1.0,1.0,0.0
+鼓,皷,2,homophonic,False,True,False,gǔ,gǔ,1.0,1.0,0.0
+挂,掛𦊱,3,homophonic,False,True,False,guà,guà guà,1.585,1.585,0.0
+拐,柺,2,homophonic,True,True,False,guǎi,guǎi,1.0,1.0,0.0
+怪,恠,2,homophonic,False,False,False,guài,guài,1.0,1.0,0.0
+管,筦,2,homophonic,False,False,False,guǎn,guǎn,1.0,1.0,0.0
+館,舘,2,homophonic,False,True,False,guǎn,guǎn,1.0,1.0,0.0
+罐,鑵,2,homophonic,False,True,False,guàn,guàn,1.0,1.0,0.0
+規,槼,2,homophonic,False,True,False,guī,guī,1.0,1.0,0.0
+瑰,瓌,2,homophonic,False,False,False,guī,guī,1.0,1.0,0.0
+果,菓,2,homophonic,True,True,False,guǒ,guǒ,1.0,1.0,0.0
+椁,槨,2,homophonic,False,False,False,guǒ,guǒ,1.0,1.0,0.0
+函,圅,2,homophonic,False,True,False,hán,hán,1.0,1.0,0.0
+悍,猂,2,homophonic,False,True,False,hàn,hàn,1.0,1.0,0.0
+焊,釬銲,3,homophonic,False,True,False,hàn,hàn hàn,1.585,1.585,0.0
+捍,扞,2,homophonic,False,False,False,hàn,hàn,1.0,1.0,0.0
+嗥,嘷獋,3,homophonic,False,True,False,háo,háo háo,1.585,1.585,0.0
+皓,皜暠,3,heterophonic,False,True,False,hào,hào gǎo,1.585,0.6667,1.0
+蚝,蠔,2,homophonic,False,False,False,háo,háo,1.0,1.0,0.0
+盍,盇,2,homophonic,False,False,False,hé,hé,1.0,1.0,0.0
+核,覈,2,homophonic,True,True,False,hé,hé,1.0,1.0,0.0
+和,龢咊,3,homophonic,False,True,False,hé,hé hé,1.585,1.585,0.0
+恒,恆,2,homophonic,False,False,False,héng,héng,1.0,1.0,0.0
+哄,閧鬨,3,tonal-variant,True,True,False,hōng,hòng hòng,1.585,1.585,0.0
+糇,餱,2,homophonic,False,True,False,hóu,hóu,1.0,1.0,0.0
+呼,虖嘑謼,4,homophonic,True,True,False,hū,hū hū hū,2.0,2.0,0.0
+糊,䊀餬,3,homophonic,False,True,False,hú,hú hú,1.585,1.585,0.0
+胡,衚,2,homophonic,True,True,False,hú,hú,1.0,1.0,0.0
+話,䛡,2,homophonic,False,False,False,huà,huà,1.0,1.0,0.0
+嘩,譁,2,tonal-variant,True,True,False,huā,huá,1.0,1.0,0.0
+花,芲蘤,3,homophonic,False,False,False,huā,huā huā,1.585,1.585,0.0
+獾,貛䝔,3,homophonic,False,True,False,huān,huān ,1.585,0.6667,1.0
+歡,懽讙驩,4,homophonic,True,True,False,huān,huān huān huān,2.0,2.0,0.0
+浣,澣,2,homophonic,False,False,False,huàn,huàn,1.0,1.0,0.0
+恍,怳,2,homophonic,True,False,False,huǎng,huǎng,1.0,1.0,0.0
+晃,㨪,2,tonal-variant,False,True,False,huǎng,huàng,1.0,1.0,0.0
+毁,燬譭,3,homophonic,True,True,False,huǐ,huǐ huǐ,1.585,1.585,0.0
+蛔,蛕蚘痐蜖,5,homophonic,True,True,False,huí,huí huí huí huí,2.3219,2.3219,0.0
+輝,煇,2,homophonic,True,True,False,huī,huī,1.0,1.0,0.0
+匯,滙,2,homophonic,False,True,False,huì,huì,1.0,1.0,0.0
+迴,𢌞逥,3,homophonic,True,True,False,huí, huí,1.585,0.6667,1.0
+徽,幑,2,homophonic,True,True,False,huī,huī,1.0,1.0,0.0
+魂,䰟,2,homophonic,False,False,False,hún,hún,1.0,1.0,0.0
+昏,昬,2,homophonic,False,False,False,hūn,hūn,1.0,1.0,0.0
+禍,旤,2,homophonic,False,True,False,huò,huò,1.0,1.0,0.0
+羈,覊,2,homophonic,False,True,False,jī,jī,1.0,1.0,0.0
+鷄,雞,2,homophonic,True,True,False,jī,jī,1.0,1.0,0.0
+楫,檝,2,homophonic,False,False,False,jí,jí,1.0,1.0,0.0
+績,勣,2,homophonic,False,True,False,jī,jī,1.0,1.0,0.0
+迹,跡蹟,3,tonal-variant,True,True,False,jì,jī jī,1.585,1.585,0.0
+期,朞,2,heterophonic,True,False,False,qī,jī,1.0,0.0,1.0
+賫,賷齎,3,homophonic,True,True,False,jī,jī jī,1.585,1.585,0.0
+假,叚,2,heterophonic,True,True,False,jiǎ,xiá,1.0,0.0,1.0
+夾,裌袷,3,heterophonic,True,True,False,jiā,jiá qiā,1.585,0.6667,1.0
+戛,戞,2,homophonic,False,False,False,jiá,jiá,1.0,1.0,0.0
+箋,牋椾,3,homophonic,False,True,False,jiān,jiān jiān,1.585,1.585,0.0
+劍,劒,2,homophonic,False,False,False,jiàn,jiàn,1.0,1.0,0.0
+鑒,鑑鍳,3,homophonic,False,False,False,jiàn,jiàn jiàn,1.585,1.585,0.0
+緘,椷,2,homophonic,False,True,False,jiān,jiān,1.0,1.0,0.0
+奸,姦,2,homophonic,True,False,False,jiān,jiān,1.0,1.0,0.0
+鹼,鹻,2,homophonic,True,False,False,jiǎn,jiǎn,1.0,1.0,0.0
+碱,堿,2,homophonic,True,True,False,jiǎn,jiǎn,1.0,1.0,0.0
+减,減,2,homophonic,False,True,False,jiǎn,jiǎn,1.0,1.0,0.0
+繭,蠒,2,homophonic,False,True,False,jiǎn,jiǎn,1.0,1.0,0.0
+繮,韁,2,homophonic,False,True,False,jiāng,jiāng,1.0,1.0,0.0
+僵,殭,2,homophonic,False,True,False,jiāng,jiāng,1.0,1.0,0.0
+奬,獎,2,homophonic,False,True,False,jiǎng,jiǎng,1.0,1.0,0.0
+僥,儌,2,homophonic,False,False,False,jiǎo,jiǎo,1.0,1.0,0.0
+叫,呌,2,homophonic,False,False,False,jiào,jiào,1.0,1.0,0.0
+剿,勦𠞰,3,heterophonic,False,True,False,jiǎo,chāo jiǎo,1.585,0.6667,1.0
+脚,腳,2,homophonic,False,False,False,jiǎo,jiǎo,1.0,1.0,0.0
+秸,稭,2,homophonic,False,False,False,jiē,jiē,1.0,1.0,0.0
+届,屆,2,homophonic,False,False,False,jiè,jiè,1.0,1.0,0.0
+階,堦,2,homophonic,False,True,False,jiē,jiē,1.0,1.0,0.0
+潔,絜,2,homophonic,True,True,False,jié,jié,1.0,1.0,0.0
+劫,刼刧刦,4,homophonic,True,True,False,jié,jié jié jié,2.0,2.0,0.0
+杰,傑,2,homophonic,False,True,False,jié,jié,1.0,1.0,0.0
+捷,㨗,2,homophonic,True,False,False,jié,jié,1.0,1.0,0.0
+斤,觔,2,homophonic,False,True,False,jīn,jīn,1.0,1.0,0.0
+晋,晉,2,homophonic,False,False,False,jìn,jìn,1.0,1.0,0.0
+緊,𦂳𦃂,3,homophonic,False,False,False,jǐn, ,1.585,0.0,1.585
+阱,穽,2,homophonic,False,True,False,jǐng,jǐng,1.0,1.0,0.0
+徑,逕,2,homophonic,False,True,False,jìng,jìng,1.0,1.0,0.0
+凈,淨,2,homophonic,False,True,False,jìng,jìng,1.0,1.0,0.0
+脛,踁,2,homophonic,True,True,False,jìng,jìng,1.0,1.0,0.0
+粳,稉秔,3,homophonic,False,True,False,jīng,jīng jīng,1.585,1.585,0.0
+炯,烱,2,homophonic,False,False,False,jiǒng,jiǒng,1.0,1.0,0.0
+迥,逈,2,homophonic,False,False,False,jiǒng,jiǒng,1.0,1.0,0.0
+韭,韮,2,homophonic,False,False,False,jiǔ,jiǔ,1.0,1.0,0.0
+救,捄,2,homophonic,True,True,False,jiù,jiù,1.0,1.0,0.0
+糾,糺,2,homophonic,True,False,False,jiū,jiū,1.0,1.0,0.0
+揪,揫,2,homophonic,False,False,False,jiū,jiū,1.0,1.0,0.0
+厩,廐廄,3,homophonic,False,True,False,jiù,jiù jiù,1.585,1.585,0.0
+巨,鉅,2,homophonic,False,True,False,jù,jù,1.0,1.0,0.0
+矩,榘,2,homophonic,False,True,False,jǔ,jǔ,1.0,1.0,0.0
+局,侷跼,3,homophonic,True,True,False,jú,jú jú,1.585,1.585,0.0
+據,㨿,2,homophonic,True,False,False,jù,jù,1.0,1.0,0.0
+舉,擧,2,homophonic,False,True,False,jǔ,jǔ,1.0,1.0,0.0
+颶,𩗗,2,homophonic,False,False,False,jù,,1.0,0.0,1.0
+狷,獧,2,homophonic,False,False,False,juàn,juàn,1.0,1.0,0.0
+眷,睠,2,homophonic,False,False,False,juàn,juàn,1.0,1.0,0.0
+倦,勌,2,homophonic,False,True,False,juàn,juàn,1.0,1.0,0.0
+橛,橜,2,homophonic,False,False,False,jué,jué,1.0,1.0,0.0
+撅,噘,2,homophonic,True,True,False,juē,juē,1.0,1.0,0.0
+决,決,2,homophonic,False,True,False,jué,jué,1.0,1.0,0.0
+俊,儁㑺,3,homophonic,False,False,False,jùn,jùn jùn,1.585,1.585,0.0
+浚,濬,2,homophonic,False,False,False,jùn,jùn,1.0,1.0,0.0
+隽,雋,2,homophonic,False,False,False,juàn,juàn,1.0,1.0,0.0
+慨,嘅,2,homophonic,True,True,False,kǎi,kǎi,1.0,1.0,0.0
+刊,栞,2,homophonic,False,True,False,kān,kān,1.0,1.0,0.0
+瞰,矙,2,homophonic,True,False,False,kàn,kàn,1.0,1.0,0.0
+侃,偘,2,homophonic,True,False,False,kǎn,kǎn,1.0,1.0,0.0
+坎,埳,2,homophonic,False,False,False,kǎn,kǎn,1.0,1.0,0.0
+糠,穅粇,3,homophonic,False,True,False,kāng,kāng kāng,1.585,1.585,0.0
+炕,匟,2,homophonic,True,True,False,kàng,kàng,1.0,1.0,0.0
+考,攷,2,homophonic,False,True,False,kǎo,kǎo,1.0,1.0,0.0
+咳,欬,2,heterophonic,False,True,False,hāi,kài,1.0,0.0,1.0
+疴,痾,2,heterophonic,False,False,False,kē,ē,1.0,0.0,1.0
+剋,尅,2,heterophonic,False,True,False,kēi,kè,1.0,0.0,1.0
+肯,肎,2,homophonic,False,False,False,kěn,kěn,1.0,1.0,0.0
+坑,阬,2,homophonic,False,True,False,kēng,kēng,1.0,1.0,0.0
+寇,宼㓂,3,homophonic,False,True,False,kòu,kòu kòu,1.585,1.585,0.0
+叩,敂,2,homophonic,True,True,False,kòu,kòu,1.0,1.0,0.0
+扣,釦,2,homophonic,False,True,False,kòu,kòu,1.0,1.0,0.0
+褲,袴,2,homophonic,False,False,False,kù,kù,1.0,1.0,0.0
+款,欵,2,homophonic,True,False,False,kuǎn,kuǎn,1.0,1.0,0.0
+况,況,2,homophonic,False,True,False,kuàng,kuàng,1.0,1.0,0.0
+礦,鑛,2,homophonic,False,True,False,kuàng,kuàng,1.0,1.0,0.0
+饋,餽,2,homophonic,False,False,False,kuì,kuì,1.0,1.0,0.0
+愧,媿,2,homophonic,False,True,False,kuì,kuì,1.0,1.0,0.0
+窺,闚,2,homophonic,True,True,False,kuī,kuī,1.0,1.0,0.0
+昆,崑崐,3,homophonic,True,True,False,kūn,kūn kūn,1.585,1.585,0.0
+捆,綑,2,homophonic,False,True,False,kǔn,kǔn,1.0,1.0,0.0
+坤,堃,2,homophonic,False,False,False,kūn,kūn,1.0,1.0,0.0
+闊,濶,2,homophonic,False,True,False,kuò,kuò,1.0,1.0,0.0
+括,𢬸,2,homophonic,False,False,False,kuò,,1.0,0.0,1.0
+辣,辢,2,homophonic,False,False,False,là,là,1.0,1.0,0.0
+臘,臈,2,homophonic,False,False,False,là,là,1.0,1.0,0.0
+賴,頼,2,homophonic,False,True,False,lài,lài,1.0,1.0,0.0
+懶,嬾,2,homophonic,False,True,False,lǎn,lǎn,1.0,1.0,0.0
+婪,惏,2,homophonic,False,True,False,lán,lán,1.0,1.0,0.0
+螂,蜋,2,homophonic,False,False,False,láng,láng,1.0,1.0,0.0
+琅,瑯,2,homophonic,False,False,False,láng,láng,1.0,1.0,0.0
+泪,淚,2,homophonic,False,False,False,lèi,lèi,1.0,1.0,0.0
+棱,稜,2,homophonic,False,True,False,léng,léng,1.0,1.0,0.0
+厘,釐,2,heterophonic,False,True,False,lí,xī,1.0,0.0,1.0
+裏,裡,2,homophonic,False,False,False,lǐ,lǐ,1.0,1.0,0.0
+歷,𠪱歴,3,homophonic,False,True,False,lì, lì,1.585,0.6667,1.0
+曆,厤,2,homophonic,False,True,False,lì,lì,1.0,1.0,0.0
+莅,蒞涖,3,homophonic,True,True,False,lì,lì lì,1.585,1.585,0.0
+犁,犂,2,homophonic,False,False,False,lí,lí,1.0,1.0,0.0
+狸,貍,2,homophonic,False,True,False,lí,lí,1.0,1.0,0.0
+梨,棃,2,homophonic,False,False,False,lí,lí,1.0,1.0,0.0
+隸,隷𨽻,3,homophonic,False,False,False,lì,lì lì,1.585,1.585,0.0
+藜,蔾,2,homophonic,True,False,False,lí,lí,1.0,1.0,0.0
+栗,凓慄,3,homophonic,True,True,False,lì,lì lì,1.585,1.585,0.0
+璃,琍瓈,3,homophonic,False,False,False,lí,lí lí,1.585,1.585,0.0
+荔,茘,2,homophonic,True,False,False,lì,lì,1.0,1.0,0.0
+廉,亷㢘,3,homophonic,True,True,False,lián,lián lián,1.585,1.585,0.0
+鐮,䥥鎌,3,homophonic,False,False,False,lián,lián lián,1.585,1.585,0.0
+奩,匳匲籢,4,homophonic,False,True,False,lián,lián lián lián,2.0,2.0,0.0
+煉,鍊,2,homophonic,False,True,False,liàn,liàn,1.0,1.0,0.0
+斂,歛,2,heterophonic,False,True,False,liǎn,hān,1.0,0.0,1.0
+梁,樑,2,homophonic,False,False,False,liáng,liáng,1.0,1.0,0.0
+凉,涼,2,homophonic,False,True,False,liáng,liáng,1.0,1.0,0.0
+麟,麐,2,homophonic,False,False,False,lín,lín,1.0,1.0,0.0
+吝,恡,2,homophonic,False,True,False,lìn,lìn,1.0,1.0,0.0
+鄰,隣,2,homophonic,False,True,False,lín,lín,1.0,1.0,0.0
+淋,痳,2,homophonic,True,True,False,lín,lín,1.0,1.0,0.0
+磷,燐粦,3,homophonic,False,True,False,lín,lín lín,1.585,1.585,0.0
+菱,蔆,2,homophonic,False,False,False,líng,líng,1.0,1.0,0.0
+留,㽞畱𤱊,4,homophonic,False,False,False,liú,liú liú ,2.0,1.1887,1.0
+琉,瑠璢,3,homophonic,False,False,False,liú,liú liú,1.585,1.585,0.0
+瘤,癅,2,homophonic,False,False,False,liú,liú,1.0,1.0,0.0
+柳,栁桺,3,homophonic,False,False,False,liǔ,liǔ liǔ,1.585,1.585,0.0
+弄,衖挵,3,heterophonic,False,True,False,nòng,xiàng nòng,1.585,0.6667,1.0
+櫓,艪㯭艣樐,5,homophonic,False,True,False,lǔ,lǔ lǔ lǔ lǔ,2.3219,2.3219,0.0
+碌,磟,2,heterophonic,False,False,False,lù,liù,1.0,0.0,1.0
+戮,剹勠,3,homophonic,True,True,False,lù,lù lù,1.585,1.585,0.0
+爐,鑪,2,homophonic,False,True,False,lú,lú,1.0,1.0,0.0
+虜,虜,2,homophonic,False,False,False,lǔ,,1.0,0.0,1.0
+綠,菉,2,tonal-variant,False,True,False,lǜ,lù,1.0,1.0,0.0
+略,畧,2,homophonic,False,False,False,lüè,lüè,1.0,1.0,0.0
+侖,崘崙,3,homophonic,True,True,False,lún,lún lún,1.585,1.585,0.0
+裸,躶臝,3,homophonic,False,True,False,luǒ,luǒ luǒ,1.585,1.585,0.0
+騾,驘,2,homophonic,False,False,False,luó,luó,1.0,1.0,0.0
+駡,罵傌,3,homophonic,False,True,False,mà,mà mà,1.585,1.585,0.0
+麻,蔴,2,homophonic,False,True,False,má,má,1.0,1.0,0.0
+蟆,蟇,2,homophonic,False,False,False,má,má,1.0,1.0,0.0
+脉,脈衇䘑,4,homophonic,False,True,False,mài,mài mài mài,2.0,2.0,0.0
+冒,冐,2,homophonic,False,False,False,mào,mào,1.0,1.0,0.0
+帽,㡌,2,homophonic,False,False,False,mào,mào,1.0,1.0,0.0
+卯,夘戼,3,homophonic,False,True,False,mǎo,mǎo mǎo,1.585,1.585,0.0
+猫,貓,2,homophonic,False,True,False,māo,māo,1.0,1.0,0.0
+牦,犛氂,3,homophonic,False,True,False,máo,máo máo,1.585,1.585,0.0
+梅,楳槑,3,homophonic,False,False,False,méi,méi méi,1.585,1.585,0.0
+虻,蝱,2,homophonic,False,False,False,méng,méng,1.0,1.0,0.0
+幂,冪,2,homophonic,False,True,False,mì,mì,1.0,1.0,0.0
+眯,瞇,2,homophonic,True,False,False,mī,mī,1.0,1.0,0.0
+覓,覔,2,homophonic,False,False,False,mì,mì,1.0,1.0,0.0
+秘,祕,2,homophonic,False,True,False,mì,mì,1.0,1.0,0.0
+綿,緜,2,homophonic,False,False,False,mián,mián,1.0,1.0,0.0
+麵,麪,2,homophonic,False,False,False,miàn,miàn,1.0,1.0,0.0
+眇,𦕈,2,homophonic,True,True,False,miǎo,,1.0,0.0,1.0
+渺,𣺌淼,3,homophonic,True,False,False,miǎo, miǎo,1.585,0.6667,1.0
+妙,玅,2,homophonic,False,True,False,miào,miào,1.0,1.0,0.0
+咩,𠴟哶,3,homophonic,True,False,False,miē, miē,1.585,0.6667,1.0
+泯,冺,2,homophonic,False,True,False,mǐn,mǐn,1.0,1.0,0.0
+命,𠇮,2,homophonic,False,True,False,mìng,,1.0,0.0,1.0
+冥,㝠𠖇,3,homophonic,False,True,False,míng,míng ,1.585,0.6667,1.0
+饃,饝,2,homophonic,False,False,False,mó,mó,1.0,1.0,0.0
+謨,謩,2,homophonic,False,False,False,mó,mó,1.0,1.0,0.0
+幕,幙,2,homophonic,False,False,False,mù,mù,1.0,1.0,0.0
+畝,𤰜畮畆𤱈畂,6,heterophonic,True,False,False,mǔ, mǔ mǔ  liù,2.585,0.7925,2.0
+拿,㧱拏挐,4,heterophonic,True,False,False,ná,chèn ná ná,2.0,1.1887,1.0
+奶,嬭妳,3,homophonic,True,False,False,nǎi,nǎi nǎi,1.585,1.585,0.0
+乃,迺廼,3,homophonic,False,True,False,nǎi,nǎi nǎi,1.585,1.585,0.0
+楠,枏柟,3,homophonic,False,False,False,nán,nán nán,1.585,1.585,0.0
+鬧,閙,2,homophonic,False,True,False,nào,nào,1.0,1.0,0.0
+嫩,嫰,2,homophonic,False,False,False,nèn,nèn,1.0,1.0,0.0
+霓,蜺,2,homophonic,False,True,False,ní,ní,1.0,1.0,0.0
+你,妳,2,heterophonic,False,True,False,nǐ,nǎi,1.0,0.0,1.0
+昵,暱,2,homophonic,False,False,False,nì,nì,1.0,1.0,0.0
+擬,儗,2,homophonic,True,True,False,nǐ,nǐ,1.0,1.0,0.0
+拈,撚,2,tonal-variant,False,False,False,niān,niǎn,1.0,1.0,0.0
+念,唸,2,homophonic,True,True,False,niàn,niàn,1.0,1.0,0.0
+年,秊,2,homophonic,False,True,False,nián,nián,1.0,1.0,0.0
+娘,孃,2,homophonic,False,False,False,niáng,niáng,1.0,1.0,0.0
+裊,嫋嬝褭,4,homophonic,True,True,False,niǎo,niǎo niǎo niǎo,2.0,2.0,0.0
+嚙,齧囓,3,homophonic,False,True,False,niè,niè niè,1.585,1.585,0.0
+捏,揑,2,homophonic,True,False,False,niē,niē,1.0,1.0,0.0
+涅,湼,2,homophonic,False,False,False,niè,niè,1.0,1.0,0.0
+孽,孼,2,homophonic,False,False,False,niè,niè,1.0,1.0,0.0
+寧,寕甯,3,homophonic,False,True,False,níng,níng níng,1.585,1.585,0.0
+農,辳,2,homophonic,False,False,False,nóng,nóng,1.0,1.0,0.0
+衄,衂䶊,3,homophonic,False,True,False,nǜ,nǜ nǜ,1.585,1.585,0.0
+暖,煖㬉煗,4,homophonic,False,True,False,nuǎn,nuǎn nuǎn nuǎn,2.0,2.0,0.0
+糯,穤稬,3,homophonic,False,True,False,nuò,nuò nuò,1.585,1.585,0.0
+挪,挼捼,3,heterophonic,True,False,False,nuó,ruá ruó,1.585,0.0,1.585
+疱,皰,2,homophonic,True,True,False,pào,pào,1.0,1.0,0.0
+炮,砲礮,3,homophonic,False,True,False,pào,pào pào,1.585,1.585,0.0
+胚,肧,2,homophonic,False,False,False,pēi,pēi,1.0,1.0,0.0
+碰,掽踫,3,homophonic,False,True,False,pèng,pèng pèng,1.585,1.585,0.0
+毗,毘,2,homophonic,False,False,False,pí,pí,1.0,1.0,0.0
+匹,疋,2,homophonic,False,True,False,pǐ,pǐ,1.0,1.0,0.0
+飄,飃,2,homophonic,False,False,False,piāo,piāo,1.0,1.0,0.0
+憑,凴,2,homophonic,False,True,False,píng,píng,1.0,1.0,0.0
+瓶,缾,2,homophonic,False,True,False,píng,píng,1.0,1.0,0.0
+迫,廹,2,heterophonic,True,True,False,pò,pǎi,1.0,0.0,1.0
+鋪,舖,2,homophonic,False,True,False,pù,pù,1.0,1.0,0.0
+戚,慼慽,3,homophonic,True,True,False,qī,qī qī,1.585,1.585,0.0
+啓,啟唘,3,homophonic,False,True,False,qǐ,qǐ qǐ,1.585,1.585,0.0
+棋,碁棊,3,homophonic,False,True,False,qí,qí qí,1.585,1.585,0.0
+栖,棲,2,homophonic,False,False,False,qī,qī,1.0,1.0,0.0
+凄,淒悽,3,homophonic,True,True,False,qī,qī qī,1.585,1.585,0.0
+旗,旂,2,homophonic,False,False,False,qí,qí,1.0,1.0,0.0
+弃,棄,2,homophonic,False,True,False,qì,qì,1.0,1.0,0.0
+憩,憇,2,homophonic,False,False,False,qì,qì,1.0,1.0,0.0
+鉛,鈆,2,homophonic,False,False,False,qiān,qiān,1.0,1.0,0.0
+潜,潛,2,homophonic,False,False,False,qián,qián,1.0,1.0,0.0
+愆,諐,2,homophonic,False,True,False,qiān,qiān,1.0,1.0,0.0
+强,彊強,3,heterophonic,True,False,False,qiáng,jiàng qiáng,1.585,0.6667,1.0
+襁,繦,2,homophonic,False,True,False,qiǎng,qiǎng,1.0,1.0,0.0
+墻,牆,2,homophonic,False,True,False,qiáng,qiáng,1.0,1.0,0.0
+檣,艢,2,homophonic,False,True,False,qiáng,qiáng,1.0,1.0,0.0
+羌,𦍑羗,3,homophonic,False,False,False,qiāng, qiāng,1.585,0.6667,1.0
+槍,鎗,2,homophonic,False,True,False,qiāng,qiāng,1.0,1.0,0.0
+憔,顦癄,3,homophonic,False,True,False,qiáo,qiáo qiáo,1.585,1.585,0.0
+蹺,蹻,2,heterophonic,False,False,False,qiāo,juē,1.0,0.0,1.0
+峭,陗,2,homophonic,False,True,False,qiào,qiào,1.0,1.0,0.0
+蕎,荍,2,homophonic,False,False,False,qiáo,qiáo,1.0,1.0,0.0
+鍬,鍫,2,homophonic,False,False,False,qiāo,qiāo,1.0,1.0,0.0
+愜,㥦,2,homophonic,False,False,False,qiè,qiè,1.0,1.0,0.0
+寢,寑,2,homophonic,False,False,False,qǐn,qǐn,1.0,1.0,0.0
+勤,懃,2,homophonic,True,True,False,qín,qín,1.0,1.0,0.0
+琴,琹,2,homophonic,False,False,False,qín,qín,1.0,1.0,0.0
+撳,搇,2,homophonic,False,False,False,qìn,qìn,1.0,1.0,0.0
+丘,坵,2,homophonic,True,True,False,qiū,qiū,1.0,1.0,0.0
+虬,虯,2,homophonic,False,False,False,qiú,qiú,1.0,1.0,0.0
+秋,秌龝,3,homophonic,False,True,False,qiū,qiū qiū,1.585,1.585,0.0
+球,毬,2,homophonic,False,True,False,qiú,qiú,1.0,1.0,0.0
+麯,麴,2,homophonic,False,False,False,qū,qū,1.0,1.0,0.0
+驅,駈敺,3,homophonic,False,True,False,qū,qū qū,1.585,1.585,0.0
+券,劵,2,heterophonic,False,True,False,quàn,juàn,1.0,0.0,1.0
+榷,搉𣙜,3,homophonic,True,True,False,què,què ,1.585,0.6667,1.0
+却,卻㕁,3,homophonic,False,False,False,què,què què,1.585,1.585,0.0
+群,羣,2,homophonic,False,False,False,qún,qún,1.0,1.0,0.0
+裙,帬裠,3,homophonic,False,True,False,qún,qún qún,1.585,1.585,0.0
+冉,冄,2,homophonic,False,False,False,rǎn,rǎn,1.0,1.0,0.0
+髯,髥,2,homophonic,False,False,False,rán,rán,1.0,1.0,0.0
+繞,遶,2,homophonic,False,True,False,rào,rào,1.0,1.0,0.0
+韌,靱靭,3,homophonic,False,True,False,rèn,rèn rèn,1.585,1.585,0.0
+軔,軔,2,homophonic,False,False,False,rèn,,1.0,0.0,1.0
+飪,餁,2,homophonic,False,False,False,rèn,rèn,1.0,1.0,0.0
+衽,袵,2,homophonic,False,False,False,rèn,rèn,1.0,1.0,0.0
+妊,姙,2,homophonic,False,False,False,rèn,rèn,1.0,1.0,0.0
+冗,宂,2,homophonic,True,True,False,rǒng,rǒng,1.0,1.0,0.0
+絨,羢毧,3,homophonic,True,True,False,róng,róng róng,1.585,1.585,0.0
+熔,鎔,2,homophonic,False,True,True,róng,róng,1.0,1.0,0.0
+融,螎,2,homophonic,False,False,False,róng,róng,1.0,1.0,0.0
+蠕,蝡,2,homophonic,True,False,False,rú,rú,1.0,1.0,0.0
+軟,輭,2,homophonic,False,False,False,ruǎn,ruǎn,1.0,1.0,0.0
+蕊,蕋橤蘂,4,homophonic,True,True,False,ruǐ,ruǐ ruǐ ruǐ,2.0,2.0,0.0
+睿,叡,2,homophonic,False,True,False,ruì,ruì,1.0,1.0,0.0
+箬,篛,2,homophonic,False,False,False,ruò,ruò,1.0,1.0,0.0
+颯,䬃,2,homophonic,False,False,False,sà,sà,1.0,1.0,0.0
+腮,顋,2,homophonic,False,True,False,sāi,sāi,1.0,1.0,0.0
+傘,𠌂繖,3,homophonic,False,True,False,sǎn, sǎn,1.585,0.6667,1.0
+散,㪚,2,homophonic,False,False,False,sàn,sàn,1.0,1.0,0.0
+桑,桒,2,homophonic,False,False,False,sāng,sāng,1.0,1.0,0.0
+澀,澁濇,3,homophonic,False,False,False,sè,sè sè,1.585,1.585,0.0
+鱔,鱓,2,homophonic,False,False,False,shàn,shàn,1.0,1.0,0.0
+删,刪,2,homophonic,False,False,False,shān,shān,1.0,1.0,0.0
+姗,姍,2,homophonic,False,False,False,shān,shān,1.0,1.0,0.0
+栅,柵,2,heterophonic,False,False,False,zhà,shān,1.0,0.0,1.0
+珊,珊,2,homophonic,False,False,False,shān,shān,1.0,1.0,0.0
+膳,饍,2,homophonic,False,True,False,shàn,shàn,1.0,1.0,0.0
+膻,羶羴,3,homophonic,False,True,False,shān,shān shān,1.585,1.585,0.0
+筲,䈰,2,homophonic,False,False,False,shāo,shāo,1.0,1.0,0.0
+蛇,虵,2,homophonic,False,False,False,shé,shé,1.0,1.0,0.0
+射,䠶,2,homophonic,False,True,False,shè,shè,1.0,1.0,0.0
+懾,慴,2,homophonic,False,False,False,shè,shè,1.0,1.0,0.0
+深,㴱,2,homophonic,False,False,False,shēn,,1.0,0.0,1.0
+慎,昚,2,homophonic,False,True,False,shèn,shèn,1.0,1.0,0.0
+參,葠蓡,3,heterophonic,False,True,False,cān,shēn shēn,1.585,0.6667,1.0
+升,陞昇,3,homophonic,True,True,False,shēng,shēng shēng,1.585,1.585,0.0
+剩,賸,2,homophonic,False,True,False,shèng,shèng,1.0,1.0,0.0
+虱,蝨,2,homophonic,False,False,False,shī,shī,1.0,1.0,0.0
+是,昰,2,homophonic,True,False,False,shì,shì,1.0,1.0,0.0
+尸,屍,2,homophonic,False,False,False,shī,shī,1.0,1.0,0.0
+濕,溼,2,homophonic,False,False,False,shī,shī,1.0,1.0,0.0
+謚,諡,2,homophonic,False,False,False,shì,shì,1.0,1.0,0.0
+實,寔,2,homophonic,False,False,False,shí,shí,1.0,1.0,0.0
+時,旹,2,homophonic,False,False,False,shí,shí,1.0,1.0,0.0
+視,眡眎,3,homophonic,True,True,False,shì,shì shì,1.585,1.585,0.0
+柿,柹,2,homophonic,False,False,False,shì,shì,1.0,1.0,0.0
+倏,倐儵,3,homophonic,False,False,False,shū,shū shū,1.585,1.585,0.0
+庶,庻,2,homophonic,False,False,False,shù,shù,1.0,1.0,0.0
+竪,豎,2,homophonic,False,True,False,shù,shù,1.0,1.0,0.0
+漱,潄,2,homophonic,False,False,False,shù,shù,1.0,1.0,0.0
+疏,疎,2,homophonic,False,False,False,shū,shū,1.0,1.0,0.0
+薯,藷,2,homophonic,False,False,False,shǔ,shǔ,1.0,1.0,0.0
+飼,飤,2,homophonic,False,False,False,sì,sì,1.0,1.0,0.0
+祀,禩,2,homophonic,False,False,False,sì,sì,1.0,1.0,0.0
+厮,廝,2,homophonic,False,True,False,sī,sī,1.0,1.0,0.0
+俟,竢,2,heterophonic,False,True,False,qí,sì,1.0,0.0,1.0
+似,佀,2,homophonic,False,False,False,sì,sì,1.0,1.0,0.0
+嗽,𠻳,2,homophonic,False,False,False,sòu,,1.0,0.0,1.0
+搜,蒐,2,homophonic,False,True,False,sōu,sōu,1.0,1.0,0.0
+溯,泝遡,3,homophonic,False,True,False,sù,sù sù,1.585,1.585,0.0
+宿,㝛,2,homophonic,False,False,False,sù,sù,1.0,1.0,0.0
+訴,愬,2,homophonic,False,True,False,sù,sù,1.0,1.0,0.0
+蘇,蘓甦,3,homophonic,False,True,False,sū,sū sū,1.585,1.585,0.0
+歲,嵗,2,homophonic,False,True,False,suì,suì,1.0,1.0,0.0
+笋,筍,2,homophonic,False,False,False,sǔn,sǔn,1.0,1.0,0.0
+飧,飱,2,homophonic,False,False,False,sūn,sūn,1.0,1.0,0.0
+瑣,𤨏,2,homophonic,False,False,False,suǒ,,1.0,0.0,1.0
+鎖,鎻,2,homophonic,False,False,False,suǒ,suǒ,1.0,1.0,0.0
+蓑,簑,2,homophonic,False,True,False,suō,suō,1.0,1.0,0.0
+挲,挱,2,homophonic,False,False,False,sā,sā,1.0,1.0,0.0
+塔,墖,2,homophonic,False,False,False,tǎ,tǎ,1.0,1.0,0.0
+拓,搨,2,homophonic,True,False,False,tà,tà,1.0,1.0,0.0
+它,牠,2,homophonic,True,True,False,tā,tā,1.0,1.0,0.0
+嘆,歎,2,homophonic,False,True,False,tàn,tàn,1.0,1.0,0.0
+罎,罈壜,3,homophonic,False,True,False,tán,tán tán,1.585,1.585,0.0
+袒,襢,2,homophonic,False,False,False,tǎn,tǎn,1.0,1.0,0.0
+趟,䟖蹚䠀,4,tonal-variant,True,True,False,tàng,tàng tāng tāng,2.0,2.0,0.0
+糖,餹,2,homophonic,False,True,False,táng,táng,1.0,1.0,0.0
+掏,搯,2,homophonic,False,False,False,tāo,tāo,1.0,1.0,0.0
+縧,絛縚,3,homophonic,True,False,False,tāo,tāo tāo,1.585,1.585,0.0
+藤,籐,2,homophonic,False,True,False,téng,téng,1.0,1.0,0.0
+剃,薙鬀,3,homophonic,False,True,False,tì,tì tì,1.585,1.585,0.0
+啼,嗁,2,homophonic,True,False,False,tí,tí,1.0,1.0,0.0
+蹄,蹏,2,homophonic,False,False,False,tí,tí,1.0,1.0,0.0
+眺,覜,2,homophonic,True,True,False,tiào,tiào,1.0,1.0,0.0
+筒,筩,2,tonal-variant,False,False,False,tǒng,tóng,1.0,1.0,0.0
+同,仝衕,3,tonal-variant,True,True,False,tóng,tóng tòng,1.585,1.585,0.0
+峒,峝,2,heterophonic,False,False,False,dòng,tóng,1.0,0.0,1.0
+偷,媮,2,homophonic,False,True,False,tōu,tōu,1.0,1.0,0.0
+兔,兎兔,3,homophonic,False,False,False,tù,tù ,1.585,0.6667,1.0
+腿,骽,2,homophonic,True,True,False,tuǐ,tuǐ,1.0,1.0,0.0
+頽,穨,2,homophonic,False,True,False,tuí,tuí,1.0,1.0,0.0
+臀,臋,2,homophonic,False,False,False,tún,tún,1.0,1.0,0.0
+馱,䭾,2,homophonic,False,False,False,tuó,tuó,1.0,1.0,0.0
+托,託,2,homophonic,False,True,False,tuō,tuō,1.0,1.0,0.0
+駝,駞,2,homophonic,False,False,False,tuó,tuó,1.0,1.0,0.0
+拖,拕,2,homophonic,False,False,False,tuō,tuō,1.0,1.0,0.0
+蛙,鼃,2,homophonic,False,True,False,wā,wā,1.0,1.0,0.0
+襪,韈韤,3,homophonic,False,True,False,wà,wà wà,1.585,1.585,0.0
+挽,輓,2,homophonic,False,True,False,wǎn,wǎn,1.0,1.0,0.0
+玩,翫,2,homophonic,False,True,False,wán,wán,1.0,1.0,0.0
+碗,盌椀㼝,4,heterophonic,False,True,False,wǎn,wǎn wǎn fàn,2.0,1.1887,1.0
+亡,亾,2,homophonic,False,True,False,wáng,wáng,1.0,1.0,0.0
+望,朢,2,homophonic,False,False,False,wàng,wàng,1.0,1.0,0.0
+往,徃,2,homophonic,False,False,False,wǎng,wǎng,1.0,1.0,0.0
+罔,㒺,2,homophonic,False,True,False,wǎng,,1.0,0.0,1.0
+喂,餵餧,3,homophonic,True,True,False,wèi,wèi wèi,1.585,1.585,0.0
+猬,蝟,2,homophonic,False,True,False,wèi,wèi,1.0,1.0,0.0
+吻,脗,2,homophonic,False,True,False,wěn,wěn,1.0,1.0,0.0
+蚊,螡蟁,3,homophonic,False,False,False,wén,wén wén,1.585,1.585,0.0
+瓮,甕罋,3,homophonic,False,True,False,wèng,wèng wèng,1.585,1.585,0.0
+污,汙汚,3,homophonic,False,False,False,wū,wū wū,1.585,1.585,0.0
+塢,隖,2,homophonic,False,True,False,wù,wù,1.0,1.0,0.0
+忤,啎,2,homophonic,True,True,False,wǔ,wǔ,1.0,1.0,0.0
+嘻,譆,2,homophonic,True,True,False,xī,xī,1.0,1.0,0.0
+溪,谿,2,homophonic,False,True,False,xī,xī,1.0,1.0,0.0
+晰,晳皙,3,homophonic,True,True,False,xī,xī xī,1.585,1.585,0.0
+席,蓆,2,homophonic,False,True,False,xí,xí,1.0,1.0,0.0
+熙,熈𤋮,3,homophonic,False,False,False,xī,xī ,1.585,0.6667,1.0
+戲,戯,2,heterophonic,False,False,False,xì,hū,1.0,0.0,1.0
+膝,厀,2,homophonic,False,True,False,xī,xī,1.0,1.0,0.0
+厦,廈,2,homophonic,False,True,False,shà,shà,1.0,1.0,0.0
+狹,陿,2,homophonic,False,True,False,xiá,xiá,1.0,1.0,0.0
+銜,衘啣,3,homophonic,False,True,False,xián,xián xián,1.585,1.585,0.0
+弦,絃,2,homophonic,False,True,False,xián,xián,1.0,1.0,0.0
+仙,僊,2,homophonic,False,False,False,xiān,xiān,1.0,1.0,0.0
+鮮,尠鱻尟,4,tonal-variant,False,True,False,xiān,xiǎn xiān xiǎn,2.0,2.0,0.0
+閑,閒,2,homophonic,False,False,False,xián,xián,1.0,1.0,0.0
+嫻,嫺,2,homophonic,False,False,False,xián,xián,1.0,1.0,0.0
+涎,㳄,2,homophonic,False,False,False,xián,xián,1.0,1.0,0.0
+綫,線,2,homophonic,False,False,False,xiàn,xiàn,1.0,1.0,0.0
+籼,秈,2,homophonic,False,True,False,xiān,xiān,1.0,1.0,0.0
+享,亯,2,homophonic,False,False,False,xiǎng,xiǎng,1.0,1.0,0.0
+餉,饟,2,homophonic,False,False,False,xiǎng,xiǎng,1.0,1.0,0.0
+嚮,曏,2,tonal-variant,True,True,False,xiàng,xiǎng,1.0,1.0,0.0
+厢,廂,2,homophonic,False,True,False,xiāng,xiāng,1.0,1.0,0.0
+笑,咲,2,homophonic,False,True,False,xiào,xiào,1.0,1.0,0.0
+效,効傚,3,homophonic,True,True,False,xiào,xiào xiào,1.585,1.585,0.0
+脅,脇,2,homophonic,False,False,False,xié,xié,1.0,1.0,0.0
+邪,衺,2,homophonic,True,True,False,xié,xié,1.0,1.0,0.0
+蟹,蠏,2,homophonic,False,False,False,xiè,xiè,1.0,1.0,0.0
+燮,爕,2,homophonic,False,False,False,xiè,xiè,1.0,1.0,0.0
+蝎,蠍,2,homophonic,False,False,False,xiē,xiē,1.0,1.0,0.0
+泄,洩,2,homophonic,False,False,False,xiè,xiè,1.0,1.0,0.0
+紲,絏,2,homophonic,True,False,False,xiè,xiè,1.0,1.0,0.0
+鞋,鞵,2,homophonic,False,False,False,xié,xié,1.0,1.0,0.0
+携,攜㩗擕㩦,5,heterophonic,False,False,False,xié,xié xí xié xié,2.3219,1.6,1.0
+幸,倖,2,homophonic,True,True,False,xìng,xìng,1.0,1.0,0.0
+汹,洶,2,homophonic,False,False,False,xiōng,xiōng,1.0,1.0,0.0
+凶,兇,2,homophonic,True,True,False,xiōng,xiōng,1.0,1.0,0.0
+胸,胷,2,homophonic,False,False,False,xiōng,xiōng,1.0,1.0,0.0
+修,脩,2,homophonic,True,True,False,xiū,xiū,1.0,1.0,0.0
+綉,繡,2,heterophonic,False,False,False,tòu,xiù,1.0,0.0,1.0
+銹,鏽,2,homophonic,False,False,False,xiù,xiù,1.0,1.0,0.0
+叙,敘敍,3,homophonic,False,True,False,xù,xù xù,1.585,1.585,0.0
+勖,勗,2,homophonic,False,True,False,xù,xù,1.0,1.0,0.0
+恤,䘏賉卹,4,homophonic,True,True,False,xù,xù xù xù,2.0,2.0,0.0
+婿,壻,2,homophonic,False,True,False,xù,xù,1.0,1.0,0.0
+喧,諠,2,homophonic,False,True,False,xuān,xuān,1.0,1.0,0.0
+楦,楥,2,homophonic,False,False,False,xuàn,xuàn,1.0,1.0,0.0
+萱,萲蕿蘐藼,5,homophonic,False,False,False,xuān,xuān xuān xuān xuān,2.3219,2.3219,0.0
+璇,璿,2,homophonic,False,False,False,xuán,xuán,1.0,1.0,0.0
+靴,鞾,2,homophonic,False,False,False,xuē,xuē,1.0,1.0,0.0
+熏,燻,2,homophonic,False,False,False,xūn,xūn,1.0,1.0,0.0
+徇,狥,2,homophonic,False,True,False,xùn,xùn,1.0,1.0,0.0
+勛,勳,2,homophonic,False,False,False,xūn,xūn,1.0,1.0,0.0
+塤,壎,2,homophonic,False,False,False,xūn,xūn,1.0,1.0,0.0
+尋,𡬶,2,homophonic,False,False,False,xún,,1.0,0.0,1.0
+巡,廵,2,homophonic,False,True,False,xún,xún,1.0,1.0,0.0
+鴉,鵶,2,homophonic,False,False,False,yā,yā,1.0,1.0,0.0
+丫,枒椏,3,homophonic,True,True,False,yā,yā yā,1.585,1.585,0.0
+贋,贗,2,homophonic,False,False,False,yàn,yàn,1.0,1.0,0.0
+雁,鴈,2,homophonic,False,True,False,yàn,yàn,1.0,1.0,0.0
+驗,騐,2,homophonic,False,False,False,yàn,yàn,1.0,1.0,0.0
+烟,煙菸,3,homophonic,False,True,False,yān,yān yān,1.585,1.585,0.0
+胭,臙,2,homophonic,False,False,False,yān,yān,1.0,1.0,0.0
+燕,鷰,2,homophonic,False,True,False,yàn,yàn,1.0,1.0,0.0
+鼹,鼴,2,homophonic,False,False,False,yǎn,yǎn,1.0,1.0,0.0
+腌,醃,2,homophonic,False,True,False,yān,yān,1.0,1.0,0.0
+咽,嚥,2,homophonic,True,False,False,yàn,yàn,1.0,1.0,0.0
+檐,簷,2,homophonic,False,True,False,yán,yán,1.0,1.0,0.0
+岩,巗巖嵒,4,homophonic,False,False,False,yán,yán yán yán,2.0,2.0,0.0
+焰,燄,2,homophonic,False,False,False,yàn,yàn,1.0,1.0,0.0
+艷,豓豔,3,homophonic,False,True,False,yàn,yàn yàn,1.585,1.585,0.0
+宴,醼,2,homophonic,True,True,False,yàn,yàn,1.0,1.0,0.0
+揚,颺敭,3,homophonic,False,True,False,yáng,yáng yáng,1.585,1.585,0.0
+淆,殽,2,homophonic,False,True,False,xiáo,xiáo,1.0,1.0,0.0
+肴,餚,2,homophonic,False,True,False,yáo,yáo,1.0,1.0,0.0
+耀,燿,2,homophonic,False,True,False,yào,yào,1.0,1.0,0.0
+咬,齩,2,homophonic,False,True,False,yǎo,yǎo,1.0,1.0,0.0
+窑,窰窯,3,homophonic,False,False,False,yáo,yáo yáo,1.585,1.585,0.0
+夭,殀,2,homophonic,False,True,False,yāo,yāo,1.0,1.0,0.0
+野,埜壄,3,homophonic,False,True,False,yě,yě yě,1.585,1.585,0.0
+夜,亱,2,homophonic,False,True,False,yè,yè,1.0,1.0,0.0
+燁,爗,2,homophonic,False,False,False,yè,yè,1.0,1.0,0.0
+翳,瞖,2,homophonic,True,True,False,yì,yì,1.0,1.0,0.0
+异,異,2,homophonic,False,True,False,yì,yì,1.0,1.0,0.0
+咿,吚,2,homophonic,True,False,False,yī,yī,1.0,1.0,0.0
+移,迻,2,homophonic,False,True,False,yí,yí,1.0,1.0,0.0
+以,㕥㠯,3,heterophonic,True,True,False,yǐ,shēn yǐ,1.585,0.6667,1.0
+因,囙,2,homophonic,False,False,False,yīn,yīn,1.0,1.0,0.0
+殷,慇,2,homophonic,True,True,False,yīn,yīn,1.0,1.0,0.0
+飲,㱃,2,homophonic,False,True,False,yǐn,yǐn,1.0,1.0,0.0
+淫,婬滛,3,homophonic,False,True,False,yín,yín yín,1.585,1.585,0.0
+喑,瘖,2,homophonic,False,True,False,yīn,yīn,1.0,1.0,0.0
+堙,陻,2,homophonic,False,True,False,yīn,yīn,1.0,1.0,0.0
+陰,隂,2,homophonic,False,False,False,yīn,yīn,1.0,1.0,0.0
+吟,唫,2,heterophonic,False,False,False,yín,jìn,1.0,0.0,1.0
+蔭,廕,2,tonal-variant,False,True,False,yīn,yìn,1.0,1.0,0.0
+姻,婣,2,homophonic,False,False,False,yīn,yīn,1.0,1.0,0.0
+罌,甖,2,homophonic,True,True,False,yīng,yīng,1.0,1.0,0.0
+穎,頴,2,homophonic,False,True,False,yǐng,yǐng,1.0,1.0,0.0
+映,暎,2,homophonic,False,False,False,yìng,yìng,1.0,1.0,0.0
+鶯,鸎,2,homophonic,False,False,False,yīng,yīng,1.0,1.0,0.0
+咏,詠,2,homophonic,False,True,False,yǒng,yǒng,1.0,1.0,0.0
+涌,湧,2,homophonic,False,False,False,yǒng,yǒng,1.0,1.0,0.0
+恿,慂惥,3,homophonic,False,False,False,yǒng,yǒng yǒng,1.585,1.585,0.0
+雍,雝,2,homophonic,False,False,False,yōng,yōng,1.0,1.0,0.0
+游,遊,2,homophonic,False,True,False,yóu,yóu,1.0,1.0,0.0
+寓,庽,2,homophonic,False,True,False,yù,yù,1.0,1.0,0.0
+欲,慾,2,homophonic,False,True,False,yù,yù,1.0,1.0,0.0
+逾,踰,2,homophonic,False,True,False,yú,yú,1.0,1.0,0.0
+愈,癒瘉,3,homophonic,True,True,False,yù,yù yù,1.585,1.585,0.0
+鬱,鬰欝,3,homophonic,False,True,False,yù,yù yù,1.585,1.585,0.0
+冤,寃𡨘,3,homophonic,False,True,False,yuān,yuān ,1.585,0.6667,1.0
+猿,猨蝯,3,homophonic,False,True,False,yuán,yuán yuán,1.585,1.585,0.0
+岳,嶽,2,homophonic,False,False,False,yuè,yuè,1.0,1.0,0.0
+韵,韻,2,homophonic,False,False,False,yùn,yùn,1.0,1.0,0.0
+雜,襍,2,homophonic,False,True,False,zá,zá,1.0,1.0,0.0
+匝,帀,2,homophonic,True,True,False,zā,zā,1.0,1.0,0.0
+灾,災烖菑,4,homophonic,True,True,False,zāi,zāi zāi zāi,2.0,2.0,0.0
+再,𠕅𠕂,3,homophonic,False,False,False,zài, ,1.585,0.0,1.585
+咱,喒𠴰偺倃,5,heterophonic,False,True,False,zán,zá ǒu zá jiù,2.3219,0.4,2.0
+贊,賛讚,3,homophonic,True,True,False,zàn,zàn zàn,1.585,1.585,0.0
+簪,簮,2,homophonic,False,False,False,zān,zān,1.0,1.0,0.0
+暫,蹔,2,homophonic,False,True,False,zàn,zàn,1.0,1.0,0.0
+葬,𦵏塟,3,homophonic,False,True,False,zàng, zàng,1.585,0.6667,1.0
+唣,唕,2,homophonic,False,False,False,zào,zào,1.0,1.0,0.0
+糟,蹧,2,homophonic,True,True,False,zāo,zāo,1.0,1.0,0.0
+噪,譟,2,homophonic,True,True,False,zào,zào,1.0,1.0,0.0
+皂,皁,2,homophonic,False,False,False,zào,zào,1.0,1.0,0.0
+札,剳劄,3,heterophonic,False,True,False,zhá,dá zhá,1.585,0.6667,1.0
+閘,牐,2,homophonic,False,True,False,zhá,zhá,1.0,1.0,0.0
+榨,搾,2,homophonic,False,True,False,zhà,zhà,1.0,1.0,0.0
+扎,紥紮,3,heterophonic,True,True,False,zhā,zā zā,1.585,0.6667,1.0
+咤,吒,2,tonal-variant,False,False,False,zhà,zhā,1.0,1.0,0.0
+寨,砦,2,homophonic,False,True,False,zhài,zhài,1.0,1.0,0.0
+齋,亝,2,heterophonic,True,True,False,zhāi,qí,1.0,0.0,1.0
+盞,琖醆,3,homophonic,False,True,False,zhǎn,zhǎn zhǎn,1.585,1.585,0.0
+氈,氊,2,homophonic,False,False,False,zhān,zhān,1.0,1.0,0.0
+占,佔,2,homophonic,True,True,False,zhàn,zhàn,1.0,1.0,0.0
+嶄,嶃,2,homophonic,True,False,False,zhǎn,zhǎn,1.0,1.0,0.0
+沾,霑,2,homophonic,False,True,False,zhān,zhān,1.0,1.0,0.0
+獐,麞,2,homophonic,False,True,False,zhāng,zhāng,1.0,1.0,0.0
+照,炤,2,homophonic,False,False,False,zhào,zhào,1.0,1.0,0.0
+棹,櫂,2,homophonic,False,False,False,zhào,zhào,1.0,1.0,0.0
+浙,淛,2,homophonic,False,False,False,zhè,zhè,1.0,1.0,0.0
+輒,輙,2,homophonic,False,False,False,zhé,zhé,1.0,1.0,0.0
+謫,讁,2,homophonic,False,False,False,zhé,zhé,1.0,1.0,0.0
+哲,喆,2,homophonic,False,False,False,zhé,zhé,1.0,1.0,0.0
+針,鍼,2,homophonic,False,False,False,zhēn,zhēn,1.0,1.0,0.0
+鴆,酖,2,homophonic,False,True,False,zhèn,zhèn,1.0,1.0,0.0
+砧,碪,2,homophonic,False,False,False,zhēn,zhēn,1.0,1.0,0.0
+珍,珎,2,homophonic,False,False,False,zhēn,zhēn,1.0,1.0,0.0
+偵,遉,2,homophonic,False,True,False,zhēn,zhēn,1.0,1.0,0.0
+卮,巵,2,homophonic,False,True,False,zhī,zhī,1.0,1.0,0.0
+帙,袟袠,3,homophonic,False,True,False,zhì,zhì zhì,1.585,1.585,0.0
+址,阯,2,homophonic,False,True,False,zhǐ,zhǐ,1.0,1.0,0.0
+置,寘,2,homophonic,False,True,False,zhì,zhì,1.0,1.0,0.0
+跖,蹠,2,homophonic,False,False,False,zhí,zhí,1.0,1.0,0.0
+栀,梔,2,homophonic,False,False,False,zhī,zhī,1.0,1.0,0.0
+衹,祇秖,3,heterophonic,True,True,False,zhǐ,qí zhī,1.585,0.6667,1.0
+志,誌,2,homophonic,True,True,False,zhì,zhì,1.0,1.0,0.0
+紙,帋,2,homophonic,False,True,False,zhǐ,zhǐ,1.0,1.0,0.0
+稚,穉稺,3,homophonic,False,False,False,zhì,zhì zhì,1.585,1.585,0.0
+侄,姪妷,3,homophonic,True,True,False,zhí,zhí zhí,1.585,1.585,0.0
+冢,塚,2,homophonic,False,True,False,zhǒng,zhǒng,1.0,1.0,0.0
+衆,眾,2,homophonic,False,True,False,zhòng,zhòng,1.0,1.0,0.0
+周,週,2,homophonic,True,True,False,zhōu,zhōu,1.0,1.0,0.0
+咒,呪,2,homophonic,False,False,False,zhòu,zhòu,1.0,1.0,0.0
+帚,箒,2,homophonic,False,True,False,zhǒu,zhǒu,1.0,1.0,0.0
+煮,煑,2,homophonic,False,False,False,zhǔ,zhǔ,1.0,1.0,0.0
+箸,筯,2,homophonic,False,False,False,zhù,zhù,1.0,1.0,0.0
+伫,竚佇,3,homophonic,True,True,False,zhù,zhù zhù,1.585,1.585,0.0
+注,註,2,homophonic,True,True,False,zhù,zhù,1.0,1.0,0.0
+猪,豬,2,homophonic,False,True,False,zhū,zhū,1.0,1.0,0.0
+磚,甎塼,3,homophonic,False,True,False,zhuān,zhuān zhuān,1.585,1.585,0.0
+撰,譔,2,homophonic,False,True,False,zhuàn,zhuàn,1.0,1.0,0.0
+專,耑,2,heterophonic,True,True,False,zhuān,duān,1.0,0.0,1.0
+饌,籑,2,homophonic,False,True,False,zhuàn,zhuàn,1.0,1.0,0.0
+妝,粧,2,homophonic,False,True,False,zhuāng,zhuāng,1.0,1.0,0.0
+斫,斲斵斮,4,heterophonic,False,False,False,zhuó,zhuó zhuó cuò,2.0,1.1887,1.0
+桌,槕,2,homophonic,False,False,False,zhuō,zhuō,1.0,1.0,0.0
+姊,姉,2,homophonic,False,False,False,zǐ,zǐ,1.0,1.0,0.0
+資,貲,2,homophonic,False,False,False,zī,zī,1.0,1.0,0.0
+眦,眥,2,homophonic,False,False,False,zì,zì,1.0,1.0,0.0
+偬,傯,2,homophonic,False,False,False,zǒng,zǒng,1.0,1.0,0.0
+鬃,騌騣鬉,4,homophonic,False,True,False,zōng,zōng zōng zōng,2.0,2.0,0.0
+踪,蹤,2,homophonic,False,False,False,zōng,zōng,1.0,1.0,0.0
+棕,椶,2,homophonic,False,False,False,zōng,zōng,1.0,1.0,0.0
+粽,糉,2,homophonic,False,False,False,zòng,zòng,1.0,1.0,0.0
+卒,䘚,2,heterophonic,False,True,False,zú,zhú,1.0,0.0,1.0
+纂,篹,2,heterophonic,False,True,False,zuǎn,zhuàn,1.0,0.0,1.0
+鑽,鑚,2,tonal-variant,False,False,False,zuān,zuàn,1.0,1.0,0.0
+最,㝡冣,3,heterophonic,False,True,False,zuì,zuì jù,1.585,0.6667,1.0
+罪,辠,2,homophonic,False,True,False,zuì,zuì,1.0,1.0,0.0
+樽,罇,2,homophonic,False,True,False,zūn,zūn,1.0,1.0,0.0

@@ -1,0 +1,10 @@
+{
+  "jaccard": {
+    "ckiplab/bert-base-chinese": 1.0,
+    "ckiplab/albert-base-chinese": 1.0,
+    "hfl/chinese-bert-wwm-ext": 0.999810695693327,
+    "hfl/chinese-macbert-base": 0.999810695693327,
+    "hfl/chinese-roberta-wwm-ext": 0.999810695693327
+  },
+  "fully_shared": false
+}

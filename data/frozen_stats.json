@@ -1,0 +1,18 @@
+{
+  "population_groups": 796,
+  "population_characters": 1821,
+  "bits_upper_total": 922.2,
+  "bits_irrecoverable_total": 838.1,
+  "bits_validated_total": 88.8,
+  "pct_irrecoverable": 90.9,
+  "reading_bearing_groups": 71,
+  "distinct_gloss_groups": 157,
+  "distinct_gloss_radical_validated_pct": 74.5,
+  "distinction_bearing_union": 205,
+  "phon_class_counts": {
+    "homophonic": 725,
+    "tonal-variant": 23,
+    "heterophonic": 48
+  },
+  "pct_distinction_bearing": 25.8
+}

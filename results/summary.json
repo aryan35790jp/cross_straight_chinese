@@ -1,0 +1,125 @@
+{
+  "type_level": {
+    "n_pairs": 543,
+    "trad_mean_dist": 0.5514318130320387,
+    "trad_ci95": [
+      0.5323959280549794,
+      0.5701461679465095
+    ],
+    "simp_mean_dist": 0.25947488825185083,
+    "simp_ci95": [
+      0.24906534286475457,
+      0.26955737806010494
+    ],
+    "cliffs_delta_trad_vs_simp": 0.6892171925290572,
+    "wilcoxon_p": 2.9856435578346962e-89,
+    "by_stratum": {
+      "reading-bearing": 0.3864395506889887,
+      "gloss-distinct": 0.3629015146602963,
+      "redundant-control": 0.370325036770868
+    }
+  },
+  "counts_group_level": {
+    "reading_bearing": 63,
+    "gloss_distinct": 123,
+    "redundant_control": 200
+  },
+  "sense_recovery_S_merged": {
+    "reading-bearing": {
+      "n": 63,
+      "mean": 0.09513247150284265,
+      "ci95": [
+        0.07564009636630152,
+        0.11620587889967919
+      ]
+    },
+    "gloss-distinct": {
+      "n": 123,
+      "mean": 0.08385056164244623,
+      "ci95": [
+        0.06982320520514634,
+        0.09867521624789828
+      ]
+    },
+    "redundant-control": {
+      "n": 200,
+      "mean": 0.06994963714947153,
+      "ci95": [
+        0.05868112695616283,
+        0.08195362489702537
+      ]
+    }
+  },
+  "sense_recovery_calibrated_vs_null": {
+    "reading-bearing": {
+      "n": 63,
+      "mean": 0.10425897332865537,
+      "ci95": [
+        0.08490748861180027,
+        0.12499368071638318
+      ]
+    },
+    "gloss-distinct": {
+      "n": 123,
+      "mean": 0.09186178545724993,
+      "ci95": [
+        0.07856047132313705,
+        0.10581001240340802
+      ]
+    },
+    "redundant-control": {
+      "n": 200,
+      "mean": 0.07417989825698895,
+      "ci95": [
+        0.06288726728932743,
+        0.08607007226877612
+      ]
+    }
+  },
+  "specificity_reading_vs_control": {
+    "S_merged_reading": 0.09513247150284265,
+    "S_merged_control": 0.06994963714947153,
+    "cliffs_delta": 0.25222222222222224,
+    "perm_p_reading_gt_control": 0.025997400259974,
+    "interpretation": "reading-bearing senses recoverable from context after collapse while redundant allographs are not -> sense-specific, not register"
+  },
+  "specificity_allbearing_vs_control": {
+    "cliffs_delta": 0.1835483870967742,
+    "perm_p": 0.017598240175982403
+  },
+  "cross_script_dissociation": {
+    "n_groups_paired": 386,
+    "form_deltaS_traditional": 0.3225538295553756,
+    "form_deltaS_simplified": 0.18422426129345476,
+    "form_paired_mean_diff": 0.13832956826192083,
+    "form_paired_ci95": [
+      0.1315285372666332,
+      0.14504283379609753
+    ],
+    "form_wilcoxon_p": 2.726412200707011e-62,
+    "sense_Smerged_traditional": 0.07616557585189124,
+    "sense_Smerged_simplified": 0.08003854622220326,
+    "sense_paired_mean_diff": -0.0038729703703120157,
+    "interpretation": "Traditional training raises FORM distinctness (delta_S) but sense recovery (S_merged) is script-independent -- a form/sense dissociation"
+  },
+  "holm_bonferroni": [
+    {
+      "test": "type_level_form_trad>simp",
+      "p": 2.9856435578346962e-89,
+      "threshold": 0.016666666666666666,
+      "sig": true
+    },
+    {
+      "test": "form_deltaS_trad>simp",
+      "p": 2.726412200707011e-62,
+      "threshold": 0.025,
+      "sig": true
+    },
+    {
+      "test": "sense_specificity_reading>control",
+      "p": 0.025997400259974,
+      "threshold": 0.05,
+      "sig": true
+    }
+  ]
+}

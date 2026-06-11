@@ -1,0 +1,10 @@
+transformers>=4.40
+torch
+datasets
+scikit-learn
+scipy
+numpy
+pandas
+matplotlib
+requests
+opencc-python-reimplemented
